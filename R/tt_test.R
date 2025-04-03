@@ -23,7 +23,7 @@
 #'   If the guess is wrong, you should provide the correct values manually (and
 #'   check that your habitat data is correct).
 #'
-#' @seealso [summary.tt_lst()], [summary.tt_df()], [as_tibble()],
+#' @seealso [summary.tt_lst()], [summary.tt_df()], [tibble::as_tibble()],
 #'   [fgeo_habitat()].
 #'
 #' @return A list of matrices.
@@ -63,7 +63,7 @@
 #'
 #' @section References:
 #' Zuleta, D., Russo, S.E., Barona, A. et al. Plant Soil (2018).
-#' <https://doi.org/10.1007/s11104-018-3878-0>.
+#' \doi{10.1007/s11104-018-3878-0}.
 #'
 #' @examples
 #' library(fgeo.tool)

@@ -78,7 +78,7 @@ species is aggregated on that habitat.
 \section{References}{
 
 Zuleta, D., Russo, S.E., Barona, A. et al. Plant Soil (2018).
-\url{https://doi.org/10.1007/s11104-018-3878-0}.
+\doi{10.1007/s11104-018-3878-0}.
 }
 
 \examples{
@@ -110,7 +110,7 @@ result <- tt_test(census, habitat, sp = some_species)
 summary(result)
 }
 \seealso{
-\code{\link[=summary.tt_lst]{summary.tt_lst()}}, \code{\link[=summary.tt_df]{summary.tt_df()}}, \code{\link[=as_tibble]{as_tibble()}},
+\code{\link[=summary.tt_lst]{summary.tt_lst()}}, \code{\link[=summary.tt_df]{summary.tt_df()}}, \code{\link[tibble:as_tibble]{tibble::as_tibble()}},
 \code{\link[=fgeo_habitat]{fgeo_habitat()}}.
 
 Other habitat functions: 

@@ -6,14 +6,7 @@
 \alias{fgeo.analyze-package}
 \title{fgeo.analyze: Analyze ForestGEO Data}
 \description{
-To help you access, transform, analyze, and
-    visualize ForestGEO data, we developed a collection of R packages
-    (<https://forestgeo.github.io/fgeo/>). This package, in particular,
-    helps you to implement analyses of plot species distributions,
-    topography, demography, and biomass. It also includes a torus
-    translation test to determine habitat associations of tree species as
-    described by Zuleta et al. (2018) <doi:10.1007/s11104-018-3878-0>. To
-    learn more about ForestGEO visit <https://forestgeo.si.edu/>.
+To help you access, transform, analyze, and visualize ForestGEO data, we developed a collection of R packages (\url{https://forestgeo.github.io/fgeo/}). This package, in particular, helps you to implement analyses of plot species distributions, topography, demography, and biomass. It also includes a torus translation test to determine habitat associations of tree species as described by Zuleta et al. (2018) \doi{10.1007/s11104-018-3878-0}. To learn more about ForestGEO visit \url{https://forestgeo.si.edu/}.
 }
 \seealso{
 Useful links:
@@ -31,7 +24,7 @@ Authors:
   \item Gabriel Arellano \email{gabriel.arellano.torres@gmail.com} [reviewer]
   \item Richard Condit \email{richardcondit@gmail.com}
   \item Matteo Detto \email{teoparaglider@gmail.com}
-  \item Kyle Harms \email{ kharms@lsu.edu}
+  \item Kyle Harms \email{kharms@lsu.edu}
   \item Suzanne Lao \email{laoz@si.edu} [reviewer]
   \item Sabrina Russo \email{srusso2@unl.edu} [reviewer]
   \item Daniel Zuleta \email{dfzuleta@gmail.com} [reviewer]

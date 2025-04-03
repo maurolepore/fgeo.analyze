@@ -19,9 +19,9 @@ insensitive).}
 created with \code{\link[dplyr:group_by]{dplyr::group_by()}} (similar to \code{\link[dplyr:context]{dplyr::n()}}). It warns if it
 detects duplicated values of treeid.
 \item \code{\link[=basal_area]{basal_area()}} sums the basal area of
-all stems in a dataset, optionally by groups created with \code{\link[=group_by]{group_by()}}. It
-warns if it detects duplicated values of stemid. It does not convert units
-(but see examples).
+all stems in a dataset, optionally by groups created with
+\code{\link[dplyr:group_by]{dplyr::group_by()}}. It warns if it detects duplicated values of stemid. It
+does not convert units (but see examples).
 }
 
 Both \code{\link[=abundance]{abundance()}} and \code{\link[=basal_area]{basal_area()}} warn if they detect

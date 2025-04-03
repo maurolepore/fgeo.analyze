@@ -5,9 +5,9 @@
 #' created with [dplyr::group_by()] (similar to [dplyr::n()]). It warns if it
 #' detects duplicated values of treeid.
 #' * [basal_area()] sums the basal area of
-#' all stems in a dataset, optionally by groups created with [group_by()]. It
-#' warns if it detects duplicated values of stemid. It does not convert units
-#' (but see examples).
+#' all stems in a dataset, optionally by groups created with
+#' [dplyr::group_by()]. It warns if it detects duplicated values of stemid. It
+#' does not convert units (but see examples).
 #'
 #' Both [abundance()] and [basal_area()] warn if they detect
 #' multiple censusid and multiple plots.

@@ -2,7 +2,7 @@
 #'
 #' @param x An object of class tt_lst.
 #' @param ... Arguments passed on to [base::as.data.frame()] (not used in
-#'   [as_tibble()]).
+#'   [tibble::as_tibble()]).
 #'
 #' @seealso [base::data.frame()], [tibble::as_tibble()].
 #' @return A [base::data.frame()] or [tibble::tibble()].

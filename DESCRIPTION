@@ -1,6 +1,6 @@
 Package: fgeo.analyze
 Title: Analyze ForestGEO Data
-Version: 1.1.14
+Version: 1.1.15
 Authors@R: 
     c(person(given = "Mauro",
              family = "Lepore",
@@ -86,6 +86,5 @@ Suggests:
     testthat (>= 2.1.1)
 Encoding: UTF-8
 Language: en-US
-LazyData: true
 Roxygen: list(markdown = TRUE)
-RoxygenNote: 7.1.1
+RoxygenNote: 7.3.2

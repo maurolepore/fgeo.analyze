@@ -10,7 +10,7 @@
 \item{x}{An object of class tt_lst.}
 
 \item{...}{Arguments passed on to \code{\link[base:as.data.frame]{base::as.data.frame()}} (not used in
-\code{\link[=as_tibble]{as_tibble()}}).}
+\code{\link[tibble:as_tibble]{tibble::as_tibble()}}).}
 }
 \value{
 A \code{\link[base:data.frame]{base::data.frame()}} or \code{\link[tibble:tibble]{tibble::tibble()}}.

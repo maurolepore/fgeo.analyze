@@ -1,3 +1,11 @@
+# fgeo.analyze 1.1.15
+
+* Maintenance release.
+
+# fgeo.analyze 1.1.14
+
+* Maintenance release.
+
 # fgeo.analyze 1.1.14
 
 * Maintenance release.
